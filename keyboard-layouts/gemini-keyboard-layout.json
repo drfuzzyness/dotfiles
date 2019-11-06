@@ -564,8 +564,8 @@
           "label": "INS"
         },
         "1": {
-          "key": "CONS:SCAN PREVIOUS TRACK",
-          "label": "PREV"
+          "key": "CONS:PAUSE PLAY",
+          "label": "PL/PS"
         },
         "2": {
           "key": "#:ledControl(4, 255)",
@@ -586,8 +586,8 @@
           "label": "HOME"
         },
         "1": {
-          "key": "CONS:SCAN NEXT TRACK",
-          "label": "NEXT"
+          "key": "CONS:STOP",
+          "label": "STOP"
         },
         "2": {
           "key": "#:animation_control(2)",
@@ -870,8 +870,8 @@
           "label": "DEL"
         },
         "1": {
-          "key": "CONS:PLAY",
-          "label": "PLAY"
+          "key": "CONS:SCAN PREVIOUS TRACK",
+          "label": "PREV"
         },
         "2": {
           "key": "#:ledControl(3, 255)",
@@ -892,8 +892,8 @@
           "label": "END"
         },
         "1": {
-          "key": "CONS:STOP",
-          "label": "STOP"
+          "key": "CONS:SCAN NEXT TRACK",
+          "label": "NEXT"
         },
         "2": {
           "key": "#:animation_control(6)",
